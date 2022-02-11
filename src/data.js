@@ -30,11 +30,11 @@ const actors = [
     movies: ["Pitch Perfect", "Into The Wood"],
   },
   {
-    name: "Tom Cruise",
+    name: "Evan Peters",
     movies: [
-      "Jack Reacher: Never Go Back",
-      "Mission Impossible 4",
-      "War of the Worlds",
+      "Kick Ass",
+      "X-Men: Days of Future Past",
+      "X-Men: Apocalypse",
     ],
   },
 ];
